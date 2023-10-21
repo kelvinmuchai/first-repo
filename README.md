@@ -1,5 +1,6 @@
 # first-repo.
-My first time on github.
-Am learning github.
-This is my first commit on github.
+In my first repository i am going to add a small python program for webscraping.
+The program scrapes an online shopping site called Jumia.
+It returns the prices of a specified user-input commodity.
+
 
