@@ -1,8 +1,9 @@
 ## first-repo.
 
 #### first program
-My first python program to display helloworld
+My first python program to display helloworld.
 [hello.py](hello.py)
+
 
 #### second program
 My second program is a small python program for webscraping.
