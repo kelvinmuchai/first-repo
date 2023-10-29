@@ -1,4 +1,4 @@
-## first-repo.
+## Simple basic python programs.
 
 #### first program
 My first python program to display helloworld.
