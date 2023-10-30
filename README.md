@@ -14,7 +14,7 @@ It returns the prices of a specified user-input commodity.
 #### third program
 My third program is a simple morse-code translator.
 It was a question that i came across on codewars.
-Codewars is a site for enhancing once problem solving skills through writing code.
+Codewars is a site for enhancing ones problem solving skills through writing code.
 [morsecode.py](morsecode.py)
 
 #### fourth program 
