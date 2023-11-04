@@ -30,5 +30,5 @@ I created it for fun as i was learning some basics about tkinter.
 #### Sixth program
 There are examples for recursion and also a bottom-up 
 approach for each which is a way to avoid using recursive functions.
-[recursion.py](recursionexamle.py)
+[recursion.py](recursionexamles.py)
 
