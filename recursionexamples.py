@@ -10,7 +10,7 @@ def fact(n):
 
 
 def factorial(n):
-    # Assuring that n is a positive integer or 0.
+    # We make sure that n is a positive integer or 0.
     if n >= 1:
         return n * fact(n - 1)
     else:
